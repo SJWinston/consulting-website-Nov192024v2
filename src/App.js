@@ -77,12 +77,17 @@ const App = () => {
           <p className="text-lg text-gray-600 mb-8">
             Transform your business with proven strategies, operational excellence, and digital innovation.
           </p>
-          <a
-            href="mailto:request@consultinget.services"
-            className="bg-blue-600 text-white px-8 py-3 rounded-md font-semibold hover:bg-blue-700 transition-colors duration-200 inline-block"
-          >
-            Request a Consultation
-          </a>
+          <div className="space-y-4">
+            <a
+              href="mailto:requests@consultinget.services"
+              className="bg-blue-600 text-white px-8 py-3 rounded-md font-semibold hover:bg-blue-700 transition-colors duration-200 inline-block"
+            >
+              Request a Consultation
+            </a>
+            <p className="text-gray-600">
+              Or email us at Requests@ConsultingET.services
+            </p>
+          </div>
         </div>
       </div>
 
@@ -130,7 +135,7 @@ const App = () => {
             </div>
             <div className="flex items-center justify-center">
               <Mail className="h-6 w-6 text-gray-600 mr-2" />
-              <span className="text-gray-600">request@consultinget.services</span>
+              <span className="text-gray-600">requests@consultinget.services</span>
             </div>
             <div className="flex items-center justify-center">
               <MapPin className="h-6 w-6 text-gray-600 mr-2" />
