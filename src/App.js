@@ -9,7 +9,7 @@ const App = () => {
         <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 justify-between items-center">
             <div className="flex-shrink-0">
-              <h1 className="text-2xl font-bold text-gray-900">John Daly Consulting</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Enterprise Transformation Partners</h1>
             </div>
             <div className="hidden sm:flex sm:space-x-8">
               <a href="#about" className="text-gray-700 hover:text-gray-900 px-3 py-2 text-sm font-medium">About</a>
@@ -25,10 +25,10 @@ const App = () => {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24">
           <div className="text-center">
             <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              Strategic Business Consulting
+              Strategy · Operations · Digital Excellence
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Helping businesses optimize operations and drive growth through data-driven insights and proven strategies.
+              Partnering with enterprises to drive transformation through strategic innovation, operational optimization, and digital advancement.
             </p>
           </div>
         </div>
@@ -95,9 +95,9 @@ const App = () => {
       <div id="about" className="bg-gray-50 py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900">About John Daly</h2>
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900">About Us</h2>
             <p className="mt-4 text-lg text-gray-600">
-              With over 15 years of experience in business strategy and operations, John Daly has helped numerous organizations achieve their goals through effective consulting and implementation of best practices. His expertise spans across industries, with a particular focus on technology and healthcare sectors.
+              Enterprise Transformation Partners brings together the expertise of seasoned consultants Sethu, Winston, and John. With decades of combined experience across technology, healthcare, and business operations, we help organizations achieve transformative results through strategic planning, operational excellence, and digital innovation.
             </p>
           </div>
         </div>
@@ -149,7 +149,7 @@ const App = () => {
       <footer className="bg-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center text-gray-500">
-            <p>&copy; 2024 John Daly Consulting. All rights reserved.</p>
+            <p>&copy; 2024 Enterprise Transformation Partners. All rights reserved.</p>
           </div>
         </div>
       </footer>
